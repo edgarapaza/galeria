@@ -56,16 +56,14 @@ p {
     line-height: 29px;
     letter-spacing: 0.5px;
 }
-
 #ar {
-    color: #ffffff;
-    font-family: 'Otomanopee One', sans-serif;
-    font-size: calc(1em + 1vw);
-    line-height: 1em;
-    padding: 1em;
-    margin: 1em;
+  color: #ffffff;
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: calc(1em + 1vw);
+  line-height: 1em;
+  padding: 1em;
+  margin: 1em;
 }
-
 
 /*---------------------------------------
   BUTTONS               
@@ -384,14 +382,15 @@ footer {
     color: rgba(250, 250, 250, 0.7);
 }
 
-#idfecha {
-    font-size: 2em;
-    font-family: 'Nunito Sans', sans-serif;
-    color: #fff;
-    letter-spacing: 0;
-    text-shadow: -2px -2px 2px #000000, 2px -2px 2px #000000, -2px 2px 2px #000000, 2px 2px 2px #000000;
-    color: #ffffff;
-    line-height: 1.2em;
+#idfecha{
+  font-size: 2em;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  letter-spacing: 0;
+  text-shadow: -2px -2px 2px #000000, 2px -2px 2px #000000, -2px 2px 2px #000000, 2px 2px 2px #000000;
+  color: #ffffff;
+  line-height: 1.2em;
+
 }
 
 #home .overlay {
@@ -424,10 +423,12 @@ footer {
 -----------------------------------------*/
 
 #about {
-    padding-top: 200px;
-    padding-bottom: 150px;
-    background-image: url("../images/fondo1.jpg");
+  padding-top: 200px;
+  padding-bottom: 150px;
+  background-image: url("../images/fondo1.jpg");
 }
+
+
 
 .about-info h3 {
     font-size: 30px;
@@ -436,12 +437,11 @@ footer {
     margin: 0;
     color: #ffffff;
 }
-
 .about-info h1 {
     font-family: 'Nunito Sans', sans-serif;
     color: #ffffff;
-}
 
+}
 
 /*---------------------------------------
   PROJECT              
